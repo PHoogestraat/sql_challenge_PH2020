@@ -2,11 +2,11 @@
 ***Homework assignment  Employee Database exercise***
 
 <b><h2> Overview </h2></b>
-Design tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
+Design tables to hold data in the CSVs, import the CSVs into a SQL database. An introduction to:
 
 1. Data Engineering
 
-3. Data Analysis
+2. Data Analysis
 
 ## Contents
 
