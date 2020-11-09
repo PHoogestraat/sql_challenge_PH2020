@@ -1,5 +1,5 @@
 # sql_challenge_PH2020
-***Homework assignment  Employee Database exercise 
+***Homework assignment  Employee Database exercise***
 ## Contents
 
 <b>01_Table_creation.sql<b/>
