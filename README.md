@@ -21,4 +21,4 @@ Design tables to hold data in the CSVs, import the CSVs into a SQL database. An 
 
 ***All solution materials can be found in the following folder:*** [EmployeeSQL](https://github.com/PHoogestraat/sql_challenge_PH2020/tree/main/EmployeeSQL)
 
-***This should be submitted on April 1st.***
+<h3>This should be submitted on April 1st </h3>
