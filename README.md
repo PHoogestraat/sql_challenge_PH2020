@@ -6,7 +6,8 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 GOALS:
 
-<tab>Data Engineering
+<margin: 5px>Data Engineering
+
 <tab>Data Analysis
 
 
