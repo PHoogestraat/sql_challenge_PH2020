@@ -1,6 +1,5 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+﻿-- Modified from ERD tool Fixed primary keys and other things.
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/H6wJ1j
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 -- CREATE TABLE RELATIONS
 
@@ -16,6 +15,8 @@ CREATE TABLE "employees" (
         "emp_no"
      )
 );
+SELECT *
+FROM employees
 
 CREATE TABLE "departments" (
     "dept_no" VARCHAR(20)   NOT NULL,
@@ -54,7 +55,7 @@ CREATE TABLE "dept_manager" (
      )
 );
 
----- WHAT is THIS???/
+---- WHAT is THIS???/ This code was never run.
 ALTER TABLE "employees" ADD CONSTRAINT "fk_employees_emp_no" FOREIGN KEY("emp_no")
 REFERENCES "dept_manager" ("emp_no");
 
