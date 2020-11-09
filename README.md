@@ -1,5 +1,11 @@
 # sql_challenge_PH2020
 ***Homework assignment  Employee Database exercise***
+<h4> Overview </h4>
+In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
+Data Engineering
+Data Analysis
+
+
 ## Contents
 
 <b> [01_Table_creation.sql](https://github.com/PHoogestraat/sql_challenge_PH2020/blob/main/EmployeeSQL/01_Table_creation.sql)           :</b><i> Schemata for creating tables </i>
