@@ -4,6 +4,9 @@
 <b><h2> Overview </h2></b>
 Design tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
 
+1. Data Engineering
+
+3. Data Analysis
 
 ## Contents
 
