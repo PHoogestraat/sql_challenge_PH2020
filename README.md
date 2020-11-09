@@ -2,7 +2,7 @@
 ***Homework assignment  Employee Database exercise***
 ## Contents
 
-<b>01_Table_creation.sql<b/>
+<b> 01_Table_creation.sql </b>
 
 01_Table_overview.png
 
