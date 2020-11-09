@@ -1,3 +1,3 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
+# SQL Homework - Employee Database
 
 All data can be found here
