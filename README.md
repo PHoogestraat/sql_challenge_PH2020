@@ -2,7 +2,7 @@
 ***Homework assignment  Employee Database exercise***
 ## Contents
 
-<b> 01_Table_creation.sql </b> ***schemata for creating tables***
+<b> 01_Table_creation.sql </b> <i> schemata for creating tables </i>
 
 01_Table_overview.png
 
