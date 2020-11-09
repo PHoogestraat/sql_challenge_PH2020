@@ -1,8 +1,8 @@
 # sql_challenge_PH2020
 ***Homework assignment  Employee Database exercise 
-## contents
+## Contents
 
-01_Table_creation.sql
+<b> 01_Table_creation.sql <b/>
 
 01_Table_overview.png
 
