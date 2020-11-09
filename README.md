@@ -17,6 +17,6 @@ Design tables to hold data in the CSVs, import the CSVs into a SQL database. An 
 <b>[02_Query_solutions.sql](https://github.com/PHoogestraat/sql_challenge_PH2020/blob/main/EmployeeSQL/02_Query_solutions.sql):</b>
 <i>Contains eight querys for homework</i>
 
-<b>[09_quick_ERD_Table_creation.sql](https://github.com/PHoogestraat/sql_challenge_PH2020/blob/main/EmployeeSQL/QuickDBD-ButlerHomework_emp.sql):</b><i> Original Schemata fromrERD tool</i>
+<b>[09_quick_ERD_Table_creation.sql](https://github.com/PHoogestraat/sql_challenge_PH2020/blob/main/EmployeeSQL/09_quick_ERD_Table_creation.sql):</b><i> Original Schemata fromrERD tool</i>
 
 ***All solution can be found in the following folder:*** [EmployeeSQL](https://github.com/PHoogestraat/sql_challenge_PH2020/tree/main/EmployeeSQL)
