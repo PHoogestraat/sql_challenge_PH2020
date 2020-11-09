@@ -6,7 +6,7 @@
 SELECT *
 FROM employees
 ORDER BY employees.emp_no DESC
-
+----------------------------------------------------------------------------------
 SELECT employees.emp_no AS "Employee Number",
 	employees.last_name AS " Last Name",
 	employees.first_name AS "First Name",
@@ -88,7 +88,7 @@ JOIN departments
 ON departments.dept_no = dept_emp.dept_no
 WHERE departments.dept_name = 'Sales'
 ORDER BY last_name, first_name;
-
+------------------------------------------------------------------------------------
 -- 7) List all employees in the Sales and Development departments, including their 
 --    employee number, last name, first name, and department name.
 
@@ -108,7 +108,7 @@ WHERE departments.dept_name = 'Development'
 OR departments.dept_name = 'Sales'
 
 ORDER BY last_name, first_name;
-
+--------------------------------------------------------------------------------------
 -- 8) In descending order, list the frequency count of employee last names, 
 --    i.e., how many employees share each last name.
 
@@ -120,6 +120,7 @@ GROUP BY employees.last_name
 ORDER BY COUNT(employees.emp_no)
 DESC;
 
+---------------- For fun 
 
 SELECT employees.first_name As "First Name",
 	COUNT(employees.first_name) AS "Name frequency"
