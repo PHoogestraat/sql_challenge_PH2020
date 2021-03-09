@@ -1,5 +1,5 @@
 # sql_challenge_PH2020
-***Homework assignment  Employee Database exercise***
+***Employee Database***
 
 <b><h2> Overview </h2></b>
 Design tables to hold data in the CSVs, import the CSVs into a SQL database. An introduction to:
@@ -19,6 +19,6 @@ Design tables to hold data in the CSVs, import the CSVs into a SQL database. An 
 
 <b>[09_quick_ERD_Table_creation.sql](https://github.com/PHoogestraat/sql_challenge_PH2020/blob/main/EmployeeSQL/09_quick_ERD_Table_creation.sql):</b><i> Original Schemata fromrERD tool</i>
 
-***All solution materials can be found in the following folder:*** [EmployeeSQL](https://github.com/PHoogestraat/sql_challenge_PH2020/tree/main/EmployeeSQL)
+***Refrence folder:*** [EmployeeSQL](https://github.com/PHoogestraat/sql_challenge_PH2020/tree/main/EmployeeSQL)
 
-<h3>This should be submitted on April 1st </h3>
+
